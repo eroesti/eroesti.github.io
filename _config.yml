@@ -79,6 +79,15 @@ defaults:
     values:
       layout: single
       author_profile: true
+      
+  # _reports
+  - scope:
+      path: "_reports"
+      type: posts
+    values:
+      layout: single
+      author_profile: true
+      read_time: false
      
 category_archive:
   type: liquid
