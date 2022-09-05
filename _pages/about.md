@@ -1,8 +1,7 @@
 ---
 permalink: /about/
-title: "About"
+title: "The ID-Predict Repository"
 ---
-# The ID-Predict Repository
 
 The updated reports can be found here:
 
