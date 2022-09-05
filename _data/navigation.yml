@@ -3,3 +3,5 @@ main:
     url: /_reports/
   - title: "COVID-19 articles"
     url: /_articles/
+  - title: "About"
+    url: /about/
