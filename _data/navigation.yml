@@ -1,6 +1,6 @@
 main:
   - title: "Reports"
-    url: /reports/
+    url: /_reports/
   - title: "Categories"
     url: /categories/
   - title: "Tags"
