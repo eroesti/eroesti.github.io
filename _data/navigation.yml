@@ -1,8 +1,8 @@
 main:
   - title: "Reports"
     url: /_reports/
-  - title: "Categories"
-    url: /categories/
+  - title: "COVID-19 articles"
+    url: /_articles/
   - title: "Tags"
     url: /tags/
   - title: "About"
