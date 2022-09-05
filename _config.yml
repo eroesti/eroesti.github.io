@@ -83,7 +83,7 @@ defaults:
   # _reports
   - scope:
       path: "_reports"
-      type: posts
+      type: pages
     values:
       layout: single
       author_profile: true
