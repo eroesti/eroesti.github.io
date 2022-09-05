@@ -3,7 +3,3 @@ main:
     url: /_reports/
   - title: "COVID-19 articles"
     url: /_articles/
-  - title: "Tags"
-    url: /tags/
-  - title: "About"
-    url: /about/
