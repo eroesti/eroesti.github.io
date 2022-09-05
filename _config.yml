@@ -16,7 +16,7 @@
 title: The ID-Predict Repository
 description: >- # this means to ignore newlines until "baseurl:"
   All the updated reports and discussed articles are here!
-minimal_mistakes_skin: default
+minimal_mistakes_skin: contrast
 search: true
 
 # Build settings
