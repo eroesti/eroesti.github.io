@@ -64,7 +64,7 @@ defaults:
 
   # _posts
   - scope:
-      path: "_reports"
+      path: ""
       type: posts
     values:
       layout: single
