@@ -45,6 +45,11 @@ include:
 #   - vendor/gems/
 #   - vendor/ruby/
 
+author:
+  name   : "First Lastname"
+  avatar : "/assets/images/bio-photo.jpg"
+  bio    : "My awesome biography constrained to a sentence or two goes here."
+
 # Plugins (previously gems:)
 plugins:
   - jekyll-paginate
