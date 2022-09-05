@@ -61,7 +61,6 @@ plugins:
 
 
 defaults:
-
   # _posts
   - scope:
       path: ""
@@ -69,8 +68,9 @@ defaults:
     values:
       layout: single
       author_profile: true
-      read_time: false
+      read_time: true
       comments: true
+      share: true
 
   # _pages
   - scope:
@@ -79,3 +79,12 @@ defaults:
     values:
       layout: single
       author_profile: true
+      
+     
+category_archive:
+  type: liquid
+  path: /categories/
+tag_archive:
+  type: liquid
+  path: /tags/
+
