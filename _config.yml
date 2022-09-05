@@ -32,6 +32,7 @@ include:
   - _pages
   - ["_pages"]
   - _reports
+  - ["_reports"]
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
@@ -46,9 +47,8 @@ include:
 #   - vendor/ruby/
 
 author:
-  name   : "First Lastname"
-  avatar : "/assets/images/bio-photo.jpg"
-  bio    : "My awesome biography constrained to a sentence or two goes here."
+  name   : "  "
+  bio    : "   "
 
 # Plugins (previously gems:)
 plugins:
@@ -68,10 +68,9 @@ defaults:
     values:
       layout: single
       author_profile: true
-      read_time: true
+      read_time: false
       comments: true
-      share: true
-      related: true
+
   # _posts
   - scope:
       path: "_reports"
@@ -79,10 +78,9 @@ defaults:
     values:
       layout: single
       author_profile: true
-      read_time: true
+      read_time: false
       comments: true
-      share: true
-      related: true
+
   # _pages
   - scope:
       path: "_pages"
