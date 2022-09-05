@@ -56,7 +56,7 @@ plugins:
 defaults:
   # _posts
   - scope:
-      path: ""
+      path: "_reports"
       type: posts
     values:
       layout: single
