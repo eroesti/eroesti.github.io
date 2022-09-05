@@ -1,4 +1,6 @@
 main:
+  - title: "Reports_2"
+    url: /about/
   - title: "Reports"
     url: /_reports/
   - title: "COVID-19 articles"
