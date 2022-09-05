@@ -1,14 +1,13 @@
 ---
-title: "Post: Modified Date"
-last_modified_at: 2016-03-09T16:20:02-05:00
+title: "Single-cell multi-omics analysis of the immune response in COVID-19"
 categories:
   - Blog
 tags:
+  - link
   - Post Formats
-  - readability
-  - standard
+link:https://www.nature.com/articles/s41591-021-01329-2
+
 ---
+The selected COVID-19 articles can be found here:
 
-This post has been updated and should show a modified date if used in a layout.
-
-All children, except one, grow up. They soon know that they will grow up, and the way Wendy knew was this. One day when she was two years old she was playing in a garden, and she plucked another flower and ran with it to her mother. I suppose she must have looked rather delightful, for Mrs. Darling put her hand to her heart and cried, "Oh, why can't you remain like this for ever!" This was all that passed between them on the subject, but henceforth Wendy knew that she must grow up. You always know after you are two. Two is the beginning of the end.
+1) Stephenson E. et al, Nature medicine (2021) [Single-cell multi-omics analysis of the immune response in COVID-19](https://www.nature.com/articles/s41591-021-01329-2)
