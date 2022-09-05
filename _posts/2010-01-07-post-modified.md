@@ -6,7 +6,6 @@ tags:
   - link
   - Post Formats
 link:https://www.nature.com/articles/s41591-021-01329-2
-
 ---
 The selected COVID-19 articles can be found here:
 
