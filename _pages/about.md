@@ -12,4 +12,4 @@ The updated reports can be found here:
 * The [pseudobulk analysis](https://eroesti.github.io/_reports/pseudobulk_analyses)
 * The [dead cells analysis](https://eroesti.github.io/_reports/analysis_dead_cells_modified_all_samples)
 * The [doublets analysis](https://eroesti.github.io/_reports/doublets_report)
-* The [empty cells analysis](https://eroesti.github.io/_reports/)
+* The [empty cells analysis](https://eroesti.github.io/_reports/empty_droplets_analysis)
